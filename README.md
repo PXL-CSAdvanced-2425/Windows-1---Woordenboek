@@ -1,8 +1,6 @@
 # Woordenboek
 
-![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
-gegenereerde beschrijving](./images/media/image1.png){width="2.2875in"
-height="2.1930555555555555in"}Schrijf een toepassing om de Nederlandse
+Schrijf een toepassing om de Nederlandse
 vertaling van Engelse specifieke technische ICT-benamingen op te slaan
 en op te zoeken en eventueel zelf te vertalen. De vertaling wordt in een
 tekstbestand bijgehouden. Voeg eventueel zelf een tekstfile toe in je
@@ -10,8 +8,7 @@ toepassing.
 
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
 gegenereerde
-beschrijving](./images/media/image2.png){width="3.896382327209099in"
-height="2.7040004374453193in"}
+beschrijving](./images/media/image2.png)
 
 De toepassing omvat 3 vensters en een statische klasse.
 
@@ -33,8 +30,7 @@ de List\<\> verwijderd.
 
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
 gegenereerde
-beschrijving](./images/media/image3.png){width="4.771829615048119in"
-height="2.689623797025372in"}
+beschrijving](./images/media/image3.png)
 
 **3 WindowsZoeken**
 
@@ -48,18 +44,15 @@ is.
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
 gegenereerde
-beschrijving](./images/media/image4.png){width="4.209946412948382in"
-height="3.1313648293963254in"}
+beschrijving](./images/media/image4.png)
 
 ![Afbeelding met tekst, schermopname, Lettertype, lijn Automatisch
 gegenereerde
-beschrijving](./images/media/image5.png){width="3.167361111111111in"
-height="1.4368055555555554in"}
+beschrijving](./images/media/image5.png)
 
 ![Afbeelding met tekst, schermopname, Lettertype, lijn Automatisch
 gegenereerde
-beschrijving](./images/media/image6.png){width="1.5416666666666667in"
-height="1.3854166666666667in"}
+beschrijving](./images/media/image6.png)
 
 **4 WindowsOver**
 
@@ -77,5 +70,4 @@ Properties) om je infovenster te voorzien van:
 -   Description.
 
 ![Afbeelding met tekst, schermopname, Lettertype, software Automatisch
-gegenereerde beschrijving](./images/media/image7.png){width="6.3in"
-height="3.5506944444444444in"}
+gegenereerde beschrijving](./images/media/image7.png)
