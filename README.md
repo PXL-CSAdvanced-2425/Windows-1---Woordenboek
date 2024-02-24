@@ -20,12 +20,12 @@ Je kan ook kiezen voor een dictionary.
 
 **2 WindowsWoordenboek**
 
-Met de opdrachtknop *btnToevoegen* kan je een specifieke benaming in het
+Met de opdrachtknop *BtnToevoegen* kan je een specifieke benaming in het
 Engels en de corresponderend Nederlandstalige term toevoegen. De lijst
 van toegevoegde woorden worden links in een listbox *LbxWoorden*
 toegevoegd (ook aan je List\<\>).
 
-Met de opdrachtknop *btnVerwijderen* worden de termen uit de Listbox en
+Met de opdrachtknop *BtnVerwijderen* worden de termen uit de Listbox en
 de List\<\> verwijderd.
 
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
