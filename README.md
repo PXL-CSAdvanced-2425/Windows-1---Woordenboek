@@ -28,14 +28,14 @@ toegevoegd (ook aan je List\<\>).
 Met de opdrachtknop *BtnVerwijderen* worden de termen uit de Listbox en
 de List\<\> verwijderd.
 
+Het menu bestaat uit *Bestand:* *Zoeken* -
+*Sluiten* en *Info.*
+
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
 gegenereerde
 beschrijving](./images/media/image3.png)
 
 **3 WindowsZoeken**
-
-Het menu bestaat uit *Bestand:* *Zoeken* (idem opdrachtknop Zoeken) -
-*Sluiten* (sluit het venster) en *Info.*
 
 De opdrachtknop *BtnZoeken* geeft random een Engelse benaming. Geef de
 vertaling in het tekstvak *TxtNederlands* en met de opdrachtknop
